@@ -57,6 +57,10 @@ You: "Use devplan_start to help me build a CLI tool for managing dotfiles"
 
 That's it. DevPlan will guide Claude through the entire process.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/mmorris35-devplan-mcp-server).
+
 ## The DevPlan Workflow
 
 DevPlan uses a **scaffold → enhance → validate** workflow that ensures every plan is agent-executable before implementation begins.
